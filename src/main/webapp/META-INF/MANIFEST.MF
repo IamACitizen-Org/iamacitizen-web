@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Class-Path: spring-webmvc-3.2.4.RELEASE.jar spring-beans-3.2.4.RELEASE
+ .jar spring-core-3.2.4.RELEASE.jar commons-logging-1.1.1.jar spring-c
+ ontext-3.2.4.RELEASE.jar spring-aop-3.2.4.RELEASE.jar aopalliance-1.0
+ .jar spring-expression-3.2.4.RELEASE.jar spring-web-3.2.4.RELEASE.jar
+  iamacitezen-service-0.0.1-SNAPSHOT.jar guice-3.0.jar javax.inject-1.
+ jar guava-15.0.jar iamacitizen-core-0.0.1-SNAPSHOT.jar uuid-3.2.jar c
+ assandra-driver-core-2.0.0-beta2.jar netty-3.7.0.Final.jar jackson-co
+ re-asl-1.9.13.jar jackson-mapper-asl-1.9.13.jar metrics-core-3.0.1.ja
+ r slf4j-api-1.6.1.jar snappy-java-1.0.5.jar lz4-1.2.0.jar reflections
+ -0.9.9-RC1.jar javassist-3.16.1-GA.jar dom4j-1.6.1.jar xml-apis-1.0.b
+ 2.jar servlet-api-2.5.jar mycila-guice-2.0.ga.jar commons-lang-2.5.ja
+ r junit-4.5.jar web-application-0.8.5.jar commons-io-2.0.jar gson-1.4
+ .jar guice-servlet-3.0.jar jaxen-1.1.1.jar jdom-1.0.jar xercesImpl-2.
+ 6.2.jar xom-1.2.5.jar xalan-2.7.0.jar slf4j-simple-1.6.1.jar findbugs
+ -1.0.0.jar annotations-1.0.0.jar bcel-5.1.jar regexp-1.2.jar coreplug
+ in-1.0.0.jar findbugs-ant-1.0.0.jar findbugsGUI-1.0.0.jar commons-log
+ ging-api-1.1.jar
+
